@@ -47,7 +47,7 @@ global.upsongvoice = "false" // true/false \\ bot can upload song as voice note 
 global.welcom_msg = "true" // Welcome / Goodbye   [true/false]
 
 
-global.owner = ['+9476168097']
+global.owner = ['+94761680927']
 global.ownertag = '+94761680927' //your tag number
 global.botname = 'JARVES - 𝘉𝘖𝘛' //ur bot name
 global.packname = "Bot Sticker" // sticker packname
