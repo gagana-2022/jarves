@@ -51,7 +51,7 @@ global.owner = ['+94761680927']
 global.ownertag = '+94761680927' //your tag number
 global.botname = 'JARVES - 𝘉𝘖𝘛' //ur bot name
 global.packname = "Bot Sticker" // sticker packname
-global.author = "GAGANA SANKALPA" // sticker author
+global.author = "Gagana " // sticker author
 global.dragonemoji = '🧩' // Menu emoji
 global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //
 
